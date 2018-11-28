@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Pastel.PNG</file>
+        <file>Images/bigotes.jpg</file>
+        <file>Images/bisquets.png</file>
+        <file>Images/cuernito-jamon-queso.png</file>
+        <file>Images/Inicio.PNG</file>
+        <file>Images/oreja.jpg</file>
+        <file>Images/Panfrances.png.jpg</file>
+        <file>Images/Mantecada-Royal.jpg</file>
+        <file>Images/depositphotos_121394178-stock-illustration-bakery-hand-written-lettering-logo.jpg</file>
+        <file>Images/pastel.qrc</file>
+        <file>Images/telera.jpg</file>
+        <file>Images/conchaspanmexicano.jpg</file>
+        <file>Images/crepa.jpg</file>
+        <file>Images/madalenas=3.JPG</file>
+        <file>Images/kisspng-birthday-cake-icing-birthday-cake-png-image-5a7493ce7fbca1.3702399315175894545232.jpg</file>
+        <file>Images/Oreja.png</file>
+        <file>Images/dona.png</file>
+        <file>Images/Cookie.png</file>
+        <file>Images/descarga.jpg</file>
+        <file>Images/descarga.png</file>
+        <file>Images/pan-frances.png</file>
+        <file>Images/Pastel_chocolate_transparente.png</file>
+        <file>Images/bolilo.png</file>
+    </qresource>
+</RCC>
